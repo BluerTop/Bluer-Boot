@@ -1,0 +1,6 @@
+server:
+  port: 9100
+  servlet:
+    context-path: /bluer
+knife4j:
+  enable: true
